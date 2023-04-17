@@ -1,0 +1,2 @@
+Writing  this  to  a file.
+Appending  2nd line this  to same file.
