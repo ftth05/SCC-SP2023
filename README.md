@@ -17,8 +17,6 @@ Instructor: Dr. Jerry Ebalunode
 
 TA:  Amala Yeruva, ayeruva@CougarNet.UH.EDU
 
-Location: Join Microsoft Teams with CODE: jfyfybf
-
 HPE DSI’s courses are free for UH System students from outside the Main Campus. However, these individuals must enroll in our courses at least three weeks before the courses starting date to allow for proper registration.
 Toolbox for remote computing:
 
